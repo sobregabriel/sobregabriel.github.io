@@ -145,13 +145,7 @@ footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url:"https://instagram.com/sobrecarbono"
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      url: "https://instagram.com/sobrecarbono"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -163,7 +157,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
   since: "2013"
-
 
 # Reading Files
 include:
